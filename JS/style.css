@@ -1,0 +1,32 @@
+html,
+body {
+    background-color: rgb(31, 29, 29);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+
+}
+h1 {
+    color: blue;
+    border-bottom: 1px solid blue;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: rgb(79, 79, 179);
+    color: whitesmoke;
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 10px;
+    border: 1px solid rgb(79, 79, 179);;
+    border-radius: 10%;
+    text-transform: uppercase;
+}
+
+#shape {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: none;
+    position: relative;
+}
