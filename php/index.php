@@ -1,12 +1,12 @@
 <?php
 
-$age = 30;
-
-if ($age >= 18) {
-    echo "allowed";
-} else {
-    echo "under age";
+for ($i=2; $i <=30 ; $= $i+2) { 
+    echo $i. "<br>";
 }
+
+
+
+
 
 
 
